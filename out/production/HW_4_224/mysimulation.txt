@@ -1,0 +1,8 @@
+number of courses:3
+course numbers:219 114 214
+arrival probabilities:0.6 0.8 0.4
+min time:2
+max time:4
+num cups:1
+simulation time:50
+number of tas:2
